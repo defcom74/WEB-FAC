@@ -1,0 +1,30 @@
+{
+  "name": "factura",
+  "description": "factura electronica",
+  "main": "index.php",
+  "keywords": [
+    "factura",
+    "soriana",
+    "addenda"
+  ],
+  "authors": [
+    "Cesar Payan"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "angular": "angularjs#^1.6.9",
+    "bootstrap": "^4.0.0",
+    "fontawesome": "^5.0.6",
+    "angular-strap": "^2.3.12"
+  }
+}
